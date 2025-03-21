@@ -10,9 +10,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# currency-converter
-# Create the README content
-readme_content = """
+
 # 💱 Currency Converter App
 
 This is a **React + Vite-based currency converter** that allows you to convert currencies in real-time using the **Fawaz Ahmed currency API**. It supports swapping currencies and displays the converted amount instantly.
